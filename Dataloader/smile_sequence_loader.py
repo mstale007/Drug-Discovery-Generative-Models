@@ -1,5 +1,5 @@
 from tensorflow.keras.utils import Sequence
-from smile_tokenizer import SmilesTokenizer
+from Dataloader.smile_tokenizer import SmilesTokenizer
 import numpy as np
 from tqdm import tqdm
 
